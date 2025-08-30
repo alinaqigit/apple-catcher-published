@@ -83,7 +83,7 @@ main {
 }
 
 #gameStartBtn{
-  display: inline-block;
+  display: none;
   width: 100px;
   padding:8px 15px;
   margin: 20px 0;
